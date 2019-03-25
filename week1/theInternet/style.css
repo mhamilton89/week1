@@ -1,0 +1,252 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+/* body * {
+    outline: solid orange;
+} */
+
+.wrapper {
+    width: 970px;
+    height: 900px;
+    background-color: white;
+    margin: 0px auto;
+}
+
+.header {
+    max-height: 140px;
+    width: 970px;
+    margin-bottom: 20px;
+}
+
+.header img {
+    height: 75px;
+    width: 75px;
+    display: inline-block;
+    position: absolute;
+    left: 220px;
+    top: 0px;
+}
+
+.header h1 {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+
+.header h2 {
+    height: 50px;
+    background-color: rgb(57, 57, 228); 
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.sidebar {
+    height: 180px;
+    width: 150px;
+    font-size: 14px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+
+.sidebar h4 {
+    margin-bottom: 5px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.sidebar p {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.sidebar_b1 {
+    width: 150px;;
+    color: white;
+    background-color: rgb(2, 157, 209);
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+    box-shadow: 2px 2px rgb(100, 100, 100);
+    margin-bottom: 5px;
+}
+
+.sidebar_b2 {
+    width: 150px;
+    color: white;
+    background-color: rgb(184, 91, 5);
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+    box-shadow: 2px 2px rgb(100, 100, 100);
+    margin-bottom: 20px;
+}
+
+.ninja {
+    background-image: url('img/ad_background.png');
+    width: 150px;
+    min-height: 280px;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+    box-shadow: 5px 5px black;
+    padding-top: 20px; 
+    display: inline-block;
+
+}
+
+.ninja img {
+    widows: 130px;
+    height: 130px;
+}
+
+.ninja button {
+    height: 30px;
+    width: 130px;
+    margin: auto;
+    background-color: rgb(52, 173, 173);
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+.main {
+    min-height: 400px;
+    width: 785px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 30px;
+    
+}
+
+.mainHeader {
+    height: 70px;
+    width: 785px;
+    display: inline-block;
+    vertical-align: top;
+    border-bottom: 2px solid black;
+    margin-bottom: 20px;
+}
+
+.homeImg {
+    width: 30px;
+    height: 30px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.mainHeader h4 {
+    vertical-align: top;
+    display: inline-block;
+}
+
+.phoneImg {
+    width: 40px;
+    height: 40px;
+    margin-top: 9px;
+    margin-bottom: 10px;
+    margin-left: 490px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.mainHeader p {
+    width: 165px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    font-size: 12px;
+    margin-right: 10px;
+}
+
+.main ul {
+    margin-left: 40px;
+    padding-top: 5px;
+}
+
+.main ol {
+    margin-left: 40px;
+    padding-top: 10px;
+}
+
+.main h4 {
+    color: blue;
+    margin-top: 8px;
+}
+
+.blue-font {
+    color: blue;
+}
+
+.red-font {
+    color: red;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.phone_num {
+    font-size: 22px;
+    color: rgb(10, 148, 194);
+    font-weight: bold;
+}
+
+.serverImg {
+    width: 200px;
+    height: 80px;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px; 
+    background-color: rgb(243, 242, 242);
+}
+
+
+.footer {
+    min-height: 50px;
+    width: 785px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 185px;
+    margin-top: 20px;
+    border-top: 4px solid blue;
+    border-right: 4px solid blue;
+    border-left: 4px solid blue;
+}
+
+.footer img {
+    height: 110px;
+    width: 120px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.footer_info {
+    width: 600px;
+    min-height: auto;
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.footer_info h2 {
+    min-height: 10px;
+    width: 600px;
+    color: rgb(60, 62, 180);
+}
+
+.footer_info p {
+    min-height: 5px;
+    width: 500px;
+}

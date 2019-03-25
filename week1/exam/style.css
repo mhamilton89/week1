@@ -1,0 +1,216 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+ /* body * {
+    outline: solid orange;
+}  */
+
+.wrapper {
+    width: 970px;
+    height: 1350px;
+    background-color: black;
+    margin: 0px auto;
+}
+
+.header {
+    min-height: 100px;
+    width: 940px;
+    margin-left: 15px;
+}
+
+.header img {
+    height: 100px;
+    width: 300px;
+    display: inline-block;
+}
+
+.header h3 {
+    color: lightgray;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 430px;
+    margin-top: 30px;
+}
+
+.banner1 {
+    min-height: 45px;
+    width: 940px;
+    margin-left: 15px;
+    background-color: rgb(42, 43, 43);
+    display: inline-block;
+}
+
+.banner1 h3 {
+    height: 15px;
+    color: darkgrey;
+    display: inline-block;
+    border-right: 1px solid rgb(88, 88, 88);
+    margin-top: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 5px;    
+    padding-top: 2px;
+    font-size: 16px;
+}
+
+.contact {
+    width: 250px;
+}
+
+.white-font {
+    color: white;
+}
+
+.main {
+    min-height: 400px;
+    width: 970px;
+}
+
+.main img {
+    height: 400px;
+    width: 940px;
+    margin-left: 15px;
+    box-shadow: 0 8px 2px -2px rgb(40, 49, 49);
+}
+
+.bottom-banner {
+    min-height: 200px;
+    width: 940px;
+    margin-left: 15px;
+    background-color: rgb(26, 25, 25)
+}
+
+.banner-block {
+    min-height: 200px;
+    width: 230px;;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.bottom-banner img {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 40px;
+}
+
+.bottom-banner h3 {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 50px;
+    color: orange;
+}
+
+.bottom-banner p {
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+    margin-left: 55px;
+    padding-bottom: 20px;
+    text-align: left;
+    color: white;
+}
+
+.banner-buy {
+    width: 940px;
+    min-height: 160px;
+    margin-left: 15px;
+    background-color: rgba(17, 12, 12, 0.219);
+}
+
+.buy-content h2 {
+    display: inline-block;
+    vertical-align: top;
+    width: 650px;
+    margin-top: 40px;
+    margin-left: 40px;
+    color: white;
+}
+
+.buy-content p {
+    display: inline-block;
+    vertical-align: top;
+    width: 650px;
+    font-size: 14px;
+    margin-left: 40px;
+    margin-top: 5px;
+    color: white;
+}
+
+.buy-content button {
+    width: 130px;
+    height: 45px;
+    display: inline-block;
+    margin-left: 100px;
+    border-radius: 10px;
+    background-color: orange;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    position: relative;
+    bottom: 20px;
+}
+
+.footer {
+    width: 940px;
+    min-height: 160px;
+    margin-left: 15px;
+}
+
+.footer-header h4 {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 20px;
+    color: white;
+}
+
+.footer-block {
+    min-height: 200px;
+    width: 210px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 15px;
+}
+
+.footer-block img {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10px;
+    border: solid 4px rgb(48, 47, 47)
+}
+
+.footer-block h3 {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: orange;
+}
+
+.footer-block p {
+    display: inline-block;
+    vertical-align: top;
+    width: 220px;
+    padding-bottom: 20px;
+    text-align: right;
+    color: white;
+    font-size: 14px;
+}
+
+.footer-header p {
+    color: orange;
+    display: inline-block;
+    margin-left: 670px;
+    margin-top: 30px;
+}
+
+.footer h5 {
+    color: gray;
+    text-align: right;
+    margin-top: 30px;
+}

@@ -1,0 +1,58 @@
+
+  * body {
+      outline: 1px solid red;
+  }
+  
+  #wrapper {
+    width: 970px;
+    background-color: rgb(49, 49, 189);
+    padding: 10px;
+    margin: 0px auto;
+}
+
+    #header {
+        background-color: crimson;
+        margin: 0px;
+        padding: 1px;
+        padding-left: 20px;
+        border-radius: 25px;
+        color: white;
+    }
+
+    #left-sidebar {
+        background-color: rgb(3, 102, 102);
+        display: inline-block;
+        vertical-align: top;
+        border-radius: 25px;
+        padding: 10px;
+        margin-top: 20px;
+    }
+
+    #main {
+        color: white;
+        background-color: rgb(19, 1, 51);
+        border-radius: 25px;
+        padding: 10px;
+        width: 700px;
+        display: inline-block;
+        vertical-align: top;
+        margin-top: 20px;
+        margin-left: 10px;
+    }
+
+    #footer {
+        background-color: gray;
+        padding: 3px;
+        margin-top: 10px;
+        border-radius: 25px;
+        color: white;
+    }
+
+    a {
+        color:  rgb(171, 238, 216);
+    }
+  
+
+    
+
+  
